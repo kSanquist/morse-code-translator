@@ -1,6 +1,8 @@
 # morse-code-translator
 This command line program allows the user to translate from Morse Code to English and vice versa!
 
+**!!! NOTE: IN ORDER FOR main.py TO RUN CORRECTLY morse_code.py NEEDS TO BE IN SAME DIRECTORY !!!**
+
 ## What you'll find
 ### READ ME
 - What you're in right now, gives a much more thorough discription of this program
